@@ -1,7 +1,7 @@
 
 # KE0196 即用型 ESP32 S3 Mini小智AI聊天机器人DIY套装 基础版本 LCD1.54彩屏
 
-![Img](./media/KE0196.JPG)
+![Img](./media/KE0196.jpg)
 
 ## 简介
 

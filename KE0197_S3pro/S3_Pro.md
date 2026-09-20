@@ -1,7 +1,7 @@
 
 # KE0197 即用型 ESP32 S3 Pro小智AI聊天机器人DIY套装 进阶版本 LCD1.54彩屏
 
-![Img](./media/KE0197.JPG)
+![Img](./media/KE0197.jpg)
 
 ## 简介
 
