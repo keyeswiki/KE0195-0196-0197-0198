@@ -268,25 +268,23 @@ ICS-43432 是一款采用 MEMS 工艺的数字麦克风，内置放大、模数�
 
 ## 安装流程图
 
+![Img](media/ks5033_02.png)
 
+![Img](media/ks5033_03.png)
 
-![Img](media/KS5033_02.png)
+![Img](media/ks5033_04.png)
 
-![Img](media/KS5033_03.png)
+![Img](media/ks5033_05.png)
 
-![Img](media/KS5033_04.png)
+![Img](media/ks5033_06.png)
 
-![Img](media/KS5033_05.png)
+![Img](media/ks5033_07.png)
 
-![Img](media/KS5033_06.png)
+![Img](media/ks5033_08.png)
 
-![Img](media/KS5033_07.png)
+![Img](media/ks5033_09.png)
 
-![Img](media/KS5033_08.png)
-
-![Img](media/KS5033_09.png)
-
-![Img](media/KS5033_01.png)
+![Img](media/ks5033_01.png)
 
 ---
 

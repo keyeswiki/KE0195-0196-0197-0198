@@ -33,7 +33,7 @@
 
 ### 1. S3 AI Rover 开发板
 
-![Img](media/MB0196.JPG)
+![Img](media/MB0196.jpg)
 
 S3 AI Rover主控搭载ESP32-S3-WROOM-1-N16R8模组，拥有16MB Flash以及8MB PSRAM，内置成熟的电源方案、双DRV8835四路电机驱动、丰富外设接口，涵盖I2S音频、双屏幕接口（SPI与I2C）、超声波、舵机扩展等资源，适配AI语音小车、WiFi遥控机器人、教学可编程底盘等诸多开发场景，板上同时预留复位按键、BOOT功能按键方便调试与配网。
 
@@ -248,17 +248,17 @@ ICS-43432 是一款采用 MEMS 工艺的数字麦克风，内置放大、模数�
 
 ## 安装流程图
 
-![Img](media/KS5030_02.png)
+![Img](media/ks5030_02.png)
 
-![Img](media/KS5030_03.png)
+![Img](media/ks5030_03.png)
 
-![Img](media/KS5030_04.png)
+![Img](media/ks5030_04.png)
 
-![Img](media/KS5030_05.png)
+![Img](media/ks5030_05.png)
 
-![Img](media/KS5030_06.png)
+![Img](media/ks5030_06.png)
 
-![Img](media/KS5030_01.png)
+![Img](media/ks5030_01.png)
 
 
 # Flash 烧录固件

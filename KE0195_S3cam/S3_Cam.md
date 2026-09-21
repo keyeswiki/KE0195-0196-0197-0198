@@ -241,25 +241,25 @@ ICS-43432 是一款采用 MEMS 工艺的数字麦克风，内置放大、模数�
 
 摄像头通常通过排线直接连接到开发板的 **24-Pin FPC连接器**上，无需手动接线。请确保排线方向正确（金属触点面朝下），轻轻推入并扣紧卡扣。
 
-![Img](media/KS5038_02.png)
+![Img](media/ks5038_02.png)
 
-![Img](media/KS5038_03.png)
+![Img](media/ks5038_03.png)
 
-![Img](media/KS5038_04.png)
+![Img](media/ks5038_04.png)
 
-![Img](media/KS5038_05.png)
+![Img](media/ks5038_05.png)
 
-![Img](media/KS5038_06.png)
+![Img](media/ks5038_06.png)
 
-![Img](media/KS5038_07.png)
+![Img](media/ks5038_07.png)
 
-![Img](media/KS5038_08.png)
+![Img](media/ks5038_08.png)
 
-![Img](media/KS5038_09.png)
+![Img](media/ks5038_09.png)
 
-![Img](media/KS5038_10.png)
+![Img](media/ks5038_10.png)
 
-![Img](media/KS5038_01.png)
+![Img](media/ks5038_01.png)
 
 ---
 
