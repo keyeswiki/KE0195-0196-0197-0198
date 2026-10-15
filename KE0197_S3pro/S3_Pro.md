@@ -311,7 +311,6 @@ ICS-43432 是一款采用 MEMS 工艺的数字麦克风，内置放大、模数�
 
 ### 1. 准备工作
 -   **操作系统**：以 Windows 为例，推荐使用 **Flash Download Tool 3.9.7** 或更高版本。
--   **获取工具**：从 [Espressif官网下载](https://www.espressif.com.cn/zh-hans/support/download/other-tools) 并解压到任意文件夹，无需安装。
 -   **运行方式**：进入解压后的目录，双击 `flash_download_tool_3.9.7.exe` 即可启动。
 
 ![](media/c4eb59624e7b7369322db8ea9b245e19.jpeg)
